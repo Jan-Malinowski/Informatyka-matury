@@ -1,0 +1,23 @@
+a:
+504
+b:
+110
+c:
+zera: 32
+jedynki: 50
+d:
+2 znaki: 43
+3 znaki: 38
+4 znaki: 37
+5 znaki: 57
+6 znaki: 53
+7 znaki: 68
+8 znaki: 78
+9 znaki: 103
+10 znaki: 83
+11 znaki: 90
+12 znaki: 86
+13 znaki: 81
+14 znaki: 68
+15 znaki: 59
+16 znaki: 56
